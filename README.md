@@ -2,20 +2,20 @@
 
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/MohmmadQunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page) [![Total Downloads](https://img.shields.io/packagist/dt/MohmmadQunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page)
 
-A [Flarum](http://flarum.org) extension.  A simple extension that redirects to the home page when navigating to a profile page
+A simple extension that redirects to the home page when navigating to any profile page
 
 ## Installation
 
 Install with composer:
 
 ```sh
-composer require mohmmad/disable-profile-page:"*"
+composer require mohmmadqunibi/disable-profile-page:"*"
 ```
 
 ## Updating
 
 ```sh
-composer update mohmmad/disable-profile-page:"*"
+composer update mohmmadqunibi/disable-profile-page:"*"
 php flarum migrate
 php flarum cache:clear
 ```
