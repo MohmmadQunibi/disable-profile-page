@@ -1,6 +1,6 @@
 # Disable Profile Page
 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/MohmmadQunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page) [![Total Downloads](https://img.shields.io/packagist/dt/MohmmadQunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/mohmmadqunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page) [![Total Downloads](https://img.shields.io/packagist/dt/mohmmadqunibi/disable-profile-page.svg)](https://packagist.org/packages/mohmmadqunibi/disable-profile-page)
 
 A simple extension that redirects to the home page when navigating to any profile page
 
