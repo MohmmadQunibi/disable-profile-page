@@ -1,7 +1,7 @@
 {
     "name": "mohmmadqunibi/disable-profile-page",
     "description": " A simple extension that redirects to the home page when navigating to any profile page",
-    "version": "dev-1.0.1",
+    "version": "1.0.1",
     "keywords": [
         "flarum"
     ],
@@ -51,7 +51,7 @@
             }
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "autoload-dev": {
         "psr-4": {
